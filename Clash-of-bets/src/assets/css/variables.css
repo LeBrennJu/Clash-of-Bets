@@ -1,0 +1,7 @@
+:root{
+   /* --mainColor:#212529; /*Use in Nav/Main/Footer*/
+    --mainColor:#212529f0; /*/Use in Nav/Main/Footer*/
+    --secondColor: #495057;
+    --white: #f8f9fa;
+    --border:#ced4da;
+}
